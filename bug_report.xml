@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Id>111000</Id>
+  <Author>Maria</Author>
+  <Summary>Указана неправильная ссылка на баннере в сайдбаре на странице Х</Summary>
+  <STR> 1) Зайти на страницу X 2) Нажать на ссылку на баннере в сайдбаре </STR>
+  <AR>Указана ссылка на страницу B</AR>
+  <ER>Указана ссылка на страницу A</ER>
+  <Priority>High</Priority>
+  <Severity>Critical</Severity>
+</root>
