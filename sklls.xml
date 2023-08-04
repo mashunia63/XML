@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
   <skills>create</skills>
-  <skills>modificate</skills>
+  <skills>update</skills>
+  <skills>delete</skills>
 </root>
